@@ -19,6 +19,13 @@ profileImage.clipsToBounds = true
 ## Day 2
 
 - TableView 를 만들어봄
+   모든 뷰 컨트롤러는 view라는 속성을 가짐
+   viewDidLoad 는 view를 사용할 준비가 끝날 때 호출되기 때문에, view와 관련되거나 눈에 보이는 요소를 초기화 할 때에는 주로 이 곳에서 사용
+   ```swift
+  self.table.backgroundColor = UIColor.green
+  ```
+  위 코드로 테이블 배경색 변경이 가능해짐.
+   
 - 오토레이아웃의 필요성을 느낌. 플러터랑 다르게 여러기기에서 동일한 화면을 보여주는게 까다로운듯
 - story board 방식의 코딩방법은 공식문서가 부족해보임.
 - codebase를 잘 다룰줄 알아야된다는 글이 많음.
