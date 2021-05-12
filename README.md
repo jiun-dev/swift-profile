@@ -15,3 +15,11 @@ profileImage.clipsToBounds = true
   2. story board
   3. swiftUi
 - 많이 쓰이는건 1번 2번같음 
+
+## Day 2
+
+- TableView 를 만들어봄
+- 오토레이아웃의 필요성을 느낌. 플러터랑 다르게 여러기기에서 동일한 화면을 보여주는게 까다로운듯
+- story board 방식의 코딩방법은 공식문서가 부족해보임.
+- codebase를 잘 다룰줄 알아야된다는 글이 많음.
+- 피곤을 핑계로 공부를 많이 하지 않음..  
