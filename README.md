@@ -1,6 +1,6 @@
 # swift-profile
 
-## Day 1
+## Day 1 21/05/11
 
 - ImageView에 이미지를 추가한 후 그 이미지를 circular로 만드는 방법을 배움
 
@@ -16,7 +16,7 @@ profileImage.clipsToBounds = true
   3. swiftUi
 - 많이 쓰이는건 1번 2번같음 
 
-## Day 2
+## Day 2 21/05/12
 
 - TableView 를 만들어봄
    모든 뷰 컨트롤러는 view라는 속성을 가짐
@@ -31,7 +31,7 @@ profileImage.clipsToBounds = true
 - codebase를 잘 다룰줄 알아야된다는 글이 많음.
 - 피곤을 핑계로 공부를 많이 하지 않음..  
 
-## Day 3
+## Day 3 21/05/16
 
 - 유튜브에 내가 원하는 레이아웃이랑 비슷한 클론코딩이 있길래 따라해보면서 전체적인 그림을 이해하는중
 - Api까지 가져와 쓰는 예제라서 상당히 많은 공부가 될 듯 하다. 클론코딩이라 올리기는 애매할듯
